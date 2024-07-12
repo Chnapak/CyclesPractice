@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWGToOsG1uoutDPpggAu2SmDNwymIQMZpXIrmCgt00TN653lyd4ZypF+S+saX8rC4B3MBTCS4I3acbdC5AAEgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matej\\source\\repos\\C#Practice\\Cycles\\Cycles\\Cycles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matej\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\matej\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\matej\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\matej\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
