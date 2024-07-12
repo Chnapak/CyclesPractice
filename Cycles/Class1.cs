@@ -10,12 +10,14 @@
             bool proceed = true;
             while (proceed)
             {
+                // Translation: Input
                 Console.WriteLine("Zadej:");
                 input = Console.ReadLine()!;
                 if (input != "exit")
                 {
                     Console.WriteLine(input);
                     // Tady bude většina program
+                    // Translation: Here will be most of the code.
                 }
                 else
                 {
